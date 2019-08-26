@@ -1,0 +1,6 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Pr_07_OverOperation\Pr_07_OverOperation\bin\Debug\Pr_07_OverOperation.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Pr_07_OverOperation\Pr_07_OverOperation\bin\Debug\Pr_07_OverOperation.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Pr_07_OverOperation\Pr_07_OverOperation\bin\Debug\Pr_07_OverOperation.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Pr_07_OverOperation\Pr_07_OverOperation\obj\Debug\Pr_07_OverOperation.csprojResolveAssemblyReference.cache
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Pr_07_OverOperation\Pr_07_OverOperation\obj\Debug\Pr_07_OverOperation.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Pr_07_OverOperation\Pr_07_OverOperation\obj\Debug\Pr_07_OverOperation.pdb

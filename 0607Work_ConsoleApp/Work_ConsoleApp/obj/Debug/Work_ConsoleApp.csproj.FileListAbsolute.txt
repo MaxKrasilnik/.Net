@@ -1,0 +1,6 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Work_ConsoleApp\Work_ConsoleApp\bin\Debug\Work_ConsoleApp.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Work_ConsoleApp\Work_ConsoleApp\bin\Debug\Work_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Work_ConsoleApp\Work_ConsoleApp\bin\Debug\Work_ConsoleApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Work_ConsoleApp\Work_ConsoleApp\obj\Debug\Work_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Work_ConsoleApp\Work_ConsoleApp\obj\Debug\Work_ConsoleApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Work_ConsoleApp\Work_ConsoleApp\obj\Debug\Work_ConsoleApp.csprojResolveAssemblyReference.cache

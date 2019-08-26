@@ -1,0 +1,6 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Test_01_ConsoleApp\Test_01_ConsoleApp\bin\Debug\Test_01_ConsoleApp.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Test_01_ConsoleApp\Test_01_ConsoleApp\bin\Debug\Test_01_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Test_01_ConsoleApp\Test_01_ConsoleApp\bin\Debug\Test_01_ConsoleApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Test_01_ConsoleApp\Test_01_ConsoleApp\obj\Debug\Test_01_ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Test_01_ConsoleApp\Test_01_ConsoleApp\obj\Debug\Test_01_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Test_01_ConsoleApp\Test_01_ConsoleApp\obj\Debug\Test_01_ConsoleApp.pdb

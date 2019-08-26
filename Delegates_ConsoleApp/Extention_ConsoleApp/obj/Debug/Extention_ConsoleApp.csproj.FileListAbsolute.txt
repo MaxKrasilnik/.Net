@@ -1,0 +1,5 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Delegates_ConsoleApp\Extention_ConsoleApp\bin\Debug\Extention_ConsoleApp.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Delegates_ConsoleApp\Extention_ConsoleApp\bin\Debug\Extention_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Delegates_ConsoleApp\Extention_ConsoleApp\bin\Debug\Extention_ConsoleApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Delegates_ConsoleApp\Extention_ConsoleApp\obj\Debug\Extention_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Delegates_ConsoleApp\Extention_ConsoleApp\obj\Debug\Extention_ConsoleApp.pdb

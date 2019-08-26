@@ -1,0 +1,6 @@
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\StreamTest\bin\Debug\StreamTest.exe.config
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\StreamTest\bin\Debug\StreamTest.exe
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\StreamTest\bin\Debug\StreamTest.pdb
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\StreamTest\obj\Debug\StreamTest.csprojResolveAssemblyReference.cache
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\StreamTest\obj\Debug\StreamTest.exe
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\StreamTest\obj\Debug\StreamTest.pdb

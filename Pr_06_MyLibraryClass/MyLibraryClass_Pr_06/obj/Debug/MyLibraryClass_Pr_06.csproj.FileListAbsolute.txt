@@ -1,0 +1,11 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\MyLibraryClass_Pr_06\bin\Debug\MyLibraryClass_Pr_06.dll
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\MyLibraryClass_Pr_06\bin\Debug\MyLibraryClass_Pr_06.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\MyLibraryClass_Pr_06\obj\Debug\MyLibraryClass_Pr_06.csprojResolveAssemblyReference.cache
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\MyLibraryClass_Pr_06\obj\Debug\MyLibraryClass_Pr_06.dll
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\MyLibraryClass_Pr_06\obj\Debug\MyLibraryClass_Pr_06.pdb
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\MyLibraryClass_Pr_06\bin\Debug\MyLibraryClass_Pr_06.dll
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\MyLibraryClass_Pr_06\bin\Debug\MyLibraryClass_Pr_06.pdb
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\MyLibraryClass_Pr_06\obj\Debug\MyLibraryClass_Pr_06.csprojAssemblyReference.cache
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\MyLibraryClass_Pr_06\obj\Debug\MyLibraryClass_Pr_06.csproj.CoreCompileInputs.cache
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\MyLibraryClass_Pr_06\obj\Debug\MyLibraryClass_Pr_06.dll
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\MyLibraryClass_Pr_06\obj\Debug\MyLibraryClass_Pr_06.pdb

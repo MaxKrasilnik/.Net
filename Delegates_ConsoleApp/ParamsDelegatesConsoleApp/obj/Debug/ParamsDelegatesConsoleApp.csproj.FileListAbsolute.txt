@@ -1,0 +1,6 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Delegates_ConsoleApp\ParamsDelegatesConsoleApp\bin\Debug\ParamsDelegatesConsoleApp.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Delegates_ConsoleApp\ParamsDelegatesConsoleApp\bin\Debug\ParamsDelegatesConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Delegates_ConsoleApp\ParamsDelegatesConsoleApp\bin\Debug\ParamsDelegatesConsoleApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Delegates_ConsoleApp\ParamsDelegatesConsoleApp\obj\Debug\ParamsDelegatesConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Delegates_ConsoleApp\ParamsDelegatesConsoleApp\obj\Debug\ParamsDelegatesConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Delegates_ConsoleApp\ParamsDelegatesConsoleApp\obj\Debug\ParamsDelegatesConsoleApp.pdb

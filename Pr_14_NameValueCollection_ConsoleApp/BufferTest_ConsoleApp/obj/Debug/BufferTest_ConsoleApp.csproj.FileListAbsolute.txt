@@ -1,0 +1,6 @@
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\BufferTest_ConsoleApp\bin\Debug\BufferTest_ConsoleApp.exe.config
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\BufferTest_ConsoleApp\bin\Debug\BufferTest_ConsoleApp.exe
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\BufferTest_ConsoleApp\bin\Debug\BufferTest_ConsoleApp.pdb
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\BufferTest_ConsoleApp\obj\Debug\BufferTest_ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\BufferTest_ConsoleApp\obj\Debug\BufferTest_ConsoleApp.exe
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\BufferTest_ConsoleApp\obj\Debug\BufferTest_ConsoleApp.pdb

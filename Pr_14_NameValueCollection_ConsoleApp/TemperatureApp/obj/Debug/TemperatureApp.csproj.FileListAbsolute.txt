@@ -1,0 +1,6 @@
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\TemperatureApp\bin\Debug\TemperatureApp.exe.config
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\TemperatureApp\obj\Debug\TemperatureApp.csprojResolveAssemblyReference.cache
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\TemperatureApp\bin\Debug\TemperatureApp.exe
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\TemperatureApp\bin\Debug\TemperatureApp.pdb
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\TemperatureApp\obj\Debug\TemperatureApp.exe
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\TemperatureApp\obj\Debug\TemperatureApp.pdb

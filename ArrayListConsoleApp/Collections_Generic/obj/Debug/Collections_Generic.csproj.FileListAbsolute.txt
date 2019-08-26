@@ -1,0 +1,5 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Collections_Generic\bin\Debug\Collections_Generic.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Collections_Generic\bin\Debug\Collections_Generic.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Collections_Generic\bin\Debug\Collections_Generic.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Collections_Generic\obj\Debug\Collections_Generic.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Collections_Generic\obj\Debug\Collections_Generic.pdb

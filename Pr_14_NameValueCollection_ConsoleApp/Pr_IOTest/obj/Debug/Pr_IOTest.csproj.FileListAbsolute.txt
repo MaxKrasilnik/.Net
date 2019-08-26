@@ -1,0 +1,6 @@
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\Pr_IOTest\bin\Debug\Pr_IOTest.exe.config
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\Pr_IOTest\bin\Debug\Pr_IOTest.exe
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\Pr_IOTest\bin\Debug\Pr_IOTest.pdb
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\Pr_IOTest\obj\Debug\Pr_IOTest.csprojResolveAssemblyReference.cache
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\Pr_IOTest\obj\Debug\Pr_IOTest.exe
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\Pr_IOTest\obj\Debug\Pr_IOTest.pdb

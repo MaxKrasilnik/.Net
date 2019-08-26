@@ -1,0 +1,6 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\CesarEncoderDecoderTestConsol\CesarEncoderDecoderTestConsol\bin\Debug\CesarEncoderDecoderTestConsol.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\CesarEncoderDecoderTestConsol\CesarEncoderDecoderTestConsol\bin\Debug\CesarEncoderDecoderTestConsol.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\CesarEncoderDecoderTestConsol\CesarEncoderDecoderTestConsol\bin\Debug\CesarEncoderDecoderTestConsol.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\CesarEncoderDecoderTestConsol\CesarEncoderDecoderTestConsol\obj\Debug\CesarEncoderDecoderTestConsol.csprojResolveAssemblyReference.cache
+c:\users\красильник.максим\documents\visual studio 2015\Projects\CesarEncoderDecoderTestConsol\CesarEncoderDecoderTestConsol\obj\Debug\CesarEncoderDecoderTestConsol.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\CesarEncoderDecoderTestConsol\CesarEncoderDecoderTestConsol\obj\Debug\CesarEncoderDecoderTestConsol.pdb

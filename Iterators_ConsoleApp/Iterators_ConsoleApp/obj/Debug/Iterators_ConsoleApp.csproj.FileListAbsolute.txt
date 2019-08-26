@@ -1,0 +1,6 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\Iterators_ConsoleApp\bin\Debug\Iterators_ConsoleApp.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\Iterators_ConsoleApp\bin\Debug\Iterators_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\Iterators_ConsoleApp\bin\Debug\Iterators_ConsoleApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\Iterators_ConsoleApp\obj\Debug\Iterators_ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\Iterators_ConsoleApp\obj\Debug\Iterators_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\Iterators_ConsoleApp\obj\Debug\Iterators_ConsoleApp.pdb

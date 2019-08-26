@@ -1,0 +1,5 @@
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\Pr_15_StreamWriter\bin\Debug\Pr_15_StreamWriter.exe.config
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\Pr_15_StreamWriter\bin\Debug\Pr_15_StreamWriter.exe
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\Pr_15_StreamWriter\bin\Debug\Pr_15_StreamWriter.pdb
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\Pr_15_StreamWriter\obj\Debug\Pr_15_StreamWriter.exe
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\Pr_15_StreamWriter\obj\Debug\Pr_15_StreamWriter.pdb

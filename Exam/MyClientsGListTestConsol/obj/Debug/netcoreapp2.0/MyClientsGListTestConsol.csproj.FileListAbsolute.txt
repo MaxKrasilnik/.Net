@@ -1,0 +1,14 @@
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\bin\Debug\netcoreapp2.0\MyClientsGListTestConsol.deps.json
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\bin\Debug\netcoreapp2.0\MyClientsGListTestConsol.runtimeconfig.json
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\bin\Debug\netcoreapp2.0\MyClientsGListTestConsol.runtimeconfig.dev.json
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\bin\Debug\netcoreapp2.0\MyClientsGListTestConsol.dll
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\bin\Debug\netcoreapp2.0\MyClientsGListTestConsol.pdb
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\bin\Debug\netcoreapp2.0\MyObjects.dll
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\bin\Debug\netcoreapp2.0\MyObjects.pdb
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\obj\Debug\netcoreapp2.0\MyClientsGListTestConsol.csprojAssemblyReference.cache
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\obj\Debug\netcoreapp2.0\MyClientsGListTestConsol.csproj.CoreCompileInputs.cache
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\obj\Debug\netcoreapp2.0\MyClientsGListTestConsol.AssemblyInfoInputs.cache
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\obj\Debug\netcoreapp2.0\MyClientsGListTestConsol.AssemblyInfo.cs
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\obj\Debug\netcoreapp2.0\MyClientsGListTestConsol.csproj.CopyComplete
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\obj\Debug\netcoreapp2.0\MyClientsGListTestConsol.dll
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyClientsGListTestConsol\obj\Debug\netcoreapp2.0\MyClientsGListTestConsol.pdb

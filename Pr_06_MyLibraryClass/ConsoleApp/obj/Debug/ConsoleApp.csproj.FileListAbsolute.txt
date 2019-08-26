@@ -1,0 +1,8 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\ConsoleApp\bin\Debug\MyLibraryClass_Pr_06.dll
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\ConsoleApp\bin\Debug\MyLibraryClass_Pr_06.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\ConsoleApp\obj\Debug\ConsoleApp.pdb

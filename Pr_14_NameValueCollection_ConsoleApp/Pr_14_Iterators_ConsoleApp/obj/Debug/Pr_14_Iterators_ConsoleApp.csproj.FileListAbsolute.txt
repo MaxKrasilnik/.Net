@@ -1,0 +1,6 @@
+C:\Users\Блудов.Александр\Documents\Visual Studio 2015\Projects\Pr_14_NameValueCollection_ConsoleApp\Pr_14_Iterators_ConsoleApp\bin\Debug\Pr_14_Iterators_ConsoleApp.exe.config
+C:\Users\Блудов.Александр\Documents\Visual Studio 2015\Projects\Pr_14_NameValueCollection_ConsoleApp\Pr_14_Iterators_ConsoleApp\bin\Debug\Pr_14_Iterators_ConsoleApp.exe
+C:\Users\Блудов.Александр\Documents\Visual Studio 2015\Projects\Pr_14_NameValueCollection_ConsoleApp\Pr_14_Iterators_ConsoleApp\bin\Debug\Pr_14_Iterators_ConsoleApp.pdb
+C:\Users\Блудов.Александр\Documents\Visual Studio 2015\Projects\Pr_14_NameValueCollection_ConsoleApp\Pr_14_Iterators_ConsoleApp\obj\Debug\Pr_14_Iterators_ConsoleApp.exe
+C:\Users\Блудов.Александр\Documents\Visual Studio 2015\Projects\Pr_14_NameValueCollection_ConsoleApp\Pr_14_Iterators_ConsoleApp\obj\Debug\Pr_14_Iterators_ConsoleApp.pdb
+C:\Users\Блудов.Александр\Documents\Visual Studio 2015\Projects\Pr_14_NameValueCollection_ConsoleApp\Pr_14_Iterators_ConsoleApp\obj\Debug\Pr_14_Iterators_ConsoleApp.csprojResolveAssemblyReference.cache

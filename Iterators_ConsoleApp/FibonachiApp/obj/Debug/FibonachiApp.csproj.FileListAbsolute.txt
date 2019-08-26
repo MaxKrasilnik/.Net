@@ -1,0 +1,6 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\FibonachiApp\bin\Debug\FibonachiApp.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\FibonachiApp\bin\Debug\FibonachiApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\FibonachiApp\bin\Debug\FibonachiApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\FibonachiApp\obj\Debug\FibonachiApp.csprojResolveAssemblyReference.cache
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\FibonachiApp\obj\Debug\FibonachiApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\FibonachiApp\obj\Debug\FibonachiApp.pdb

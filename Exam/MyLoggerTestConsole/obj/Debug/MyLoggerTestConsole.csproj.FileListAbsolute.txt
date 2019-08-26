@@ -1,0 +1,8 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\CesarEncoderDecoderTestConsol\MyLoggerTestConsole\bin\Debug\MyLoggerTestConsole.exe.config
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyLoggerTestConsole\obj\Debug\MyLoggerTestConsole.csprojAssemblyReference.cache
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyLoggerTestConsole\obj\Debug\MyLoggerTestConsole.csproj.CoreCompileInputs.cache
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyLoggerTestConsole\bin\Debug\MyLoggerTestConsole.exe.config
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyLoggerTestConsole\bin\Debug\MyLoggerTestConsole.exe
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyLoggerTestConsole\bin\Debug\MyLoggerTestConsole.pdb
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyLoggerTestConsole\obj\Debug\MyLoggerTestConsole.exe
+C:\Users\Format\Desktop\CesarEncoderDecoderTestConsol\MyLoggerTestConsole\obj\Debug\MyLoggerTestConsole.pdb

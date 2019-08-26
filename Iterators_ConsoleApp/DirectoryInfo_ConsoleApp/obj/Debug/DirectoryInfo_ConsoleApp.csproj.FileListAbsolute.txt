@@ -1,0 +1,5 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\DirectoryInfo_ConsoleApp\bin\Debug\DirectoryInfo_ConsoleApp.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\DirectoryInfo_ConsoleApp\bin\Debug\DirectoryInfo_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\DirectoryInfo_ConsoleApp\bin\Debug\DirectoryInfo_ConsoleApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\DirectoryInfo_ConsoleApp\obj\Debug\DirectoryInfo_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\Iterators_ConsoleApp\DirectoryInfo_ConsoleApp\obj\Debug\DirectoryInfo_ConsoleApp.pdb

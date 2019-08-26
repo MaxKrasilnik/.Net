@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibraryClass_Pr_06", "MyLibraryClass_Pr_06\MyLibraryClass_Pr_06.csproj", "{5324D8E2-7EF6-4624-AA17-5F275A8EEA59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{A43D6616-F403-4EDE-9000-36ED3783BDAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingMethods", "OverloadingMethods\OverloadingMethods.csproj", "{1166A9FC-CA64-4551-8F2B-1EF62CDF7491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5324D8E2-7EF6-4624-AA17-5F275A8EEA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5324D8E2-7EF6-4624-AA17-5F275A8EEA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5324D8E2-7EF6-4624-AA17-5F275A8EEA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5324D8E2-7EF6-4624-AA17-5F275A8EEA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43D6616-F403-4EDE-9000-36ED3783BDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43D6616-F403-4EDE-9000-36ED3783BDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43D6616-F403-4EDE-9000-36ED3783BDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43D6616-F403-4EDE-9000-36ED3783BDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1166A9FC-CA64-4551-8F2B-1EF62CDF7491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1166A9FC-CA64-4551-8F2B-1EF62CDF7491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1166A9FC-CA64-4551-8F2B-1EF62CDF7491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1166A9FC-CA64-4551-8F2B-1EF62CDF7491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

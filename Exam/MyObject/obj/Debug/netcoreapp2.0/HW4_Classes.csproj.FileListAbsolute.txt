@@ -1,0 +1,11 @@
+C:\Users\Format\source\repos\HW4\HW4\bin\Debug\netcoreapp2.0\HW4_Classes.deps.json
+C:\Users\Format\source\repos\HW4\HW4\bin\Debug\netcoreapp2.0\HW4_Classes.runtimeconfig.json
+C:\Users\Format\source\repos\HW4\HW4\bin\Debug\netcoreapp2.0\HW4_Classes.runtimeconfig.dev.json
+C:\Users\Format\source\repos\HW4\HW4\bin\Debug\netcoreapp2.0\HW4_Classes.dll
+C:\Users\Format\source\repos\HW4\HW4\bin\Debug\netcoreapp2.0\HW4_Classes.pdb
+C:\Users\Format\source\repos\HW4\HW4\obj\Debug\netcoreapp2.0\HW4_Classes.csprojAssemblyReference.cache
+C:\Users\Format\source\repos\HW4\HW4\obj\Debug\netcoreapp2.0\HW4_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Format\source\repos\HW4\HW4\obj\Debug\netcoreapp2.0\HW4_Classes.AssemblyInfoInputs.cache
+C:\Users\Format\source\repos\HW4\HW4\obj\Debug\netcoreapp2.0\HW4_Classes.AssemblyInfo.cs
+C:\Users\Format\source\repos\HW4\HW4\obj\Debug\netcoreapp2.0\HW4_Classes.dll
+C:\Users\Format\source\repos\HW4\HW4\obj\Debug\netcoreapp2.0\HW4_Classes.pdb

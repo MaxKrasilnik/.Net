@@ -1,0 +1,6 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\ArrayListConsoleApp\bin\Debug\ArrayListConsoleApp.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\ArrayListConsoleApp\bin\Debug\ArrayListConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\ArrayListConsoleApp\bin\Debug\ArrayListConsoleApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\ArrayListConsoleApp\obj\Debug\ArrayListConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\ArrayListConsoleApp\obj\Debug\ArrayListConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\ArrayListConsoleApp\obj\Debug\ArrayListConsoleApp.pdb

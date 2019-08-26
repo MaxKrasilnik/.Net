@@ -1,0 +1,5 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\SortedList\bin\Debug\SortedList.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\SortedList\bin\Debug\SortedList.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\SortedList\bin\Debug\SortedList.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\SortedList\obj\Debug\SortedList.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\SortedList\obj\Debug\SortedList.pdb

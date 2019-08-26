@@ -1,0 +1,6 @@
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\AloneFile\bin\Debug\AloneFile.exe.config
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\AloneFile\bin\Debug\AloneFile.exe
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\AloneFile\bin\Debug\AloneFile.pdb
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\AloneFile\obj\Debug\AloneFile.exe
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\AloneFile\obj\Debug\AloneFile.pdb
+C:\Users\Красильник.Максим\Desktop\Pr_14_NameValueCollection_ConsoleApp\AloneFile\obj\Debug\AloneFile.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\HashtableConsoleApp\bin\Debug\HashtableConsoleApp.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\HashtableConsoleApp\obj\Debug\HashtableConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\HashtableConsoleApp\bin\Debug\HashtableConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\HashtableConsoleApp\bin\Debug\HashtableConsoleApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\HashtableConsoleApp\obj\Debug\HashtableConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\HashtableConsoleApp\obj\Debug\HashtableConsoleApp.pdb

@@ -1,0 +1,18 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\OverloadingMethods\bin\Debug\OverloadingMethods.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\OverloadingMethods\bin\Debug\OverloadingMethods.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\OverloadingMethods\bin\Debug\OverloadingMethods.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\OverloadingMethods\obj\Debug\OverloadingMethods.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\OverloadingMethods\obj\Debug\OverloadingMethods.pdb
+C:\Users\Красильник.Максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\OverloadingMethods\obj\Debug\OverloadingMethods.csprojResolveAssemblyReference.cache
+C:\Users\Красильник.Максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\OverloadingMethods\bin\Debug\MyLibraryClass_Pr_06.dll
+C:\Users\Красильник.Максим\documents\visual studio 2015\Projects\MyLibraryClass_Pr_06\OverloadingMethods\bin\Debug\MyLibraryClass_Pr_06.pdb
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\OverloadingMethods\bin\Debug\OverloadingMethods.exe.config
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\OverloadingMethods\bin\Debug\OverloadingMethods.exe
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\OverloadingMethods\bin\Debug\OverloadingMethods.pdb
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\OverloadingMethods\bin\Debug\MyLibraryClass_Pr_06.dll
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\OverloadingMethods\bin\Debug\MyLibraryClass_Pr_06.pdb
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\OverloadingMethods\obj\Debug\OverloadingMethods.csprojAssemblyReference.cache
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\OverloadingMethods\obj\Debug\OverloadingMethods.csproj.CoreCompileInputs.cache
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\OverloadingMethods\obj\Debug\OverloadingMethods.csproj.CopyComplete
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\OverloadingMethods\obj\Debug\OverloadingMethods.exe
+C:\Users\Alladin\Downloads\MyLibraryClass_Pr_06\OverloadingMethods\obj\Debug\OverloadingMethods.pdb

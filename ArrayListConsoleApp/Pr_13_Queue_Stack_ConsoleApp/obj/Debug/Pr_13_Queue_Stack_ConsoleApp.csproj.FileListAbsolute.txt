@@ -1,0 +1,5 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Pr_13_Queue_Stack_ConsoleApp\bin\Debug\Pr_13_Queue_Stack_ConsoleApp.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Pr_13_Queue_Stack_ConsoleApp\bin\Debug\Pr_13_Queue_Stack_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Pr_13_Queue_Stack_ConsoleApp\bin\Debug\Pr_13_Queue_Stack_ConsoleApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Pr_13_Queue_Stack_ConsoleApp\obj\Debug\Pr_13_Queue_Stack_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Pr_13_Queue_Stack_ConsoleApp\obj\Debug\Pr_13_Queue_Stack_ConsoleApp.pdb

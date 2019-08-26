@@ -1,0 +1,5 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Pr_OtherDictionary_ConsoleApp\bin\Debug\Pr_OtherDictionary_ConsoleApp.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Pr_OtherDictionary_ConsoleApp\bin\Debug\Pr_OtherDictionary_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Pr_OtherDictionary_ConsoleApp\bin\Debug\Pr_OtherDictionary_ConsoleApp.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Pr_OtherDictionary_ConsoleApp\obj\Debug\Pr_OtherDictionary_ConsoleApp.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\ArrayListConsoleApp\Pr_OtherDictionary_ConsoleApp\obj\Debug\Pr_OtherDictionary_ConsoleApp.pdb

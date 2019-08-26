@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<log>
+  <log_row rownum="1" date_time="20.07.2018 14:48:02" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="2" date_time="20.07.2018 14:48:02" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="3" date_time="20.07.2018 14:48:02" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="1" date_time="20.07.2018 14:50:27" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="2" date_time="20.07.2018 14:50:27" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="3" date_time="20.07.2018 14:50:27" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="4" date_time="20.07.2018 14:50:27" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="5" date_time="20.07.2018 14:50:27" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="6" date_time="20.07.2018 14:50:27" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="1" date_time="20.07.2018 14:51:17" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="2" date_time="20.07.2018 14:51:17" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="3" date_time="20.07.2018 14:51:17" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="4" date_time="20.07.2018 14:51:17" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="5" date_time="20.07.2018 14:51:17" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+  <log_row rownum="6" date_time="20.07.2018 14:51:17" action="ТЕСТ ЛОГА" code_row="MyLoggerTestConsole: Program.cs : Main">Запись в лог на диске d</log_row>
+</log>

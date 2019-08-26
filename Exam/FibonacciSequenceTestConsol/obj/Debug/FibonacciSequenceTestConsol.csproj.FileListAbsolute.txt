@@ -1,0 +1,5 @@
+c:\users\красильник.максим\documents\visual studio 2015\Projects\CesarEncoderDecoderTestConsol\FibonacciSequenceTestConsol\bin\Debug\FibonacciSequenceTestConsol.exe.config
+c:\users\красильник.максим\documents\visual studio 2015\Projects\CesarEncoderDecoderTestConsol\FibonacciSequenceTestConsol\bin\Debug\FibonacciSequenceTestConsol.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\CesarEncoderDecoderTestConsol\FibonacciSequenceTestConsol\bin\Debug\FibonacciSequenceTestConsol.pdb
+c:\users\красильник.максим\documents\visual studio 2015\Projects\CesarEncoderDecoderTestConsol\FibonacciSequenceTestConsol\obj\Debug\FibonacciSequenceTestConsol.exe
+c:\users\красильник.максим\documents\visual studio 2015\Projects\CesarEncoderDecoderTestConsol\FibonacciSequenceTestConsol\obj\Debug\FibonacciSequenceTestConsol.pdb
